@@ -1,0 +1,2 @@
+/home/qlq/Labs/cmake/t3/build/lib/CMakeFiles/hello.dir
+/home/qlq/Labs/cmake/t3/build/lib/CMakeFiles/hello_static.dir
